@@ -4,10 +4,7 @@ This is the second ornament in my DIY ornament series, the **Choo Choo Train**
 
 This ornament is very similar to the [original 2013 ornament](https://github.com/ChristmasOrnaments/2013-Snowman), with only a few minor changes. The image in the silkscreen has changed (it's a train). The locations of the LEDs have change, and so the patterns that it produces were also changed to represent the wheels of the train in motion. Another change was to the ICSP header on the board. I made a small [pogo-pin adapter](https://github.com/timtilities/Pogo-Pin-ICSP-Adapter) so the header wouldn't take up as much room. It's much easier to use (and also easier to design board traces around). I also removed the extra LED from the back of the board, since I never used it. I had intended to use it as a "low battery" indicator, but the brightness of the LEDs does a fine job of that anyway.
 
-Here are the pics:
-
 ![Front](media/front.jpg) ![back](media/back.jpg)
-
 ![pcb](media/pcb.jpg) ![schematic](media/schematic.jpg)
 
 The new pogo adapter:
@@ -33,8 +30,6 @@ High: DF
 Extended: FF
 
 You can see the effect of different fuse settings (and their values) [here](http://www.engbedded.com/fusecalc/).
-
-
 
 ### Resources
 
