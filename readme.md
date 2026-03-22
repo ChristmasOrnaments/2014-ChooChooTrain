@@ -15,7 +15,7 @@ The new pogo adapter:
 ![pogo](media/pogo.jpg)
 
 Here's a small video of the board in action:
-![train_video](media/train_video.mp4 "train_video")
+https://github.com/user-attachments/assets/bbaf6b06-1da1-494d-bd4b-d39d66976917
 
 ### Compiling
 
