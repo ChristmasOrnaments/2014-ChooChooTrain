@@ -11,8 +11,10 @@ The new pogo adapter:
 
 ![pogo](media/pogo.jpg)
 
-Here's a small video of the board in action:
-https://github.com/user-attachments/assets/bbaf6b06-1da1-494d-bd4b-d39d66976917
+Here's the ornament in action:
+<!-- https://github.com/user-attachments/assets/bbaf6b06-1da1-494d-bd4b-d39d66976917 -->
+
+![Train](media/Train.gif)
 
 ### Compiling
 
